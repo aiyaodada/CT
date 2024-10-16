@@ -1,0 +1,1 @@
+import{n}from"./index-a1f01123.js";const s={};var r=function(){var e=this,_=e._self._c;return e._self._setupProxy,_("div")},t=[],c=n(s,r,t,!1,null,"04ee20cc",null,null);const a=c.exports;export{a as default};
